@@ -1,6 +1,7 @@
 import React from 'react'
 import { home } from '../data/dummydata'
-import { Typewriter } from 'typewriter-effect'
+import Typewriter from 'typewriter-effect'
+
 
 export const Hero = () => {
   return (

@@ -2,8 +2,6 @@ import React from "react";
 import { Heading } from "../common/Heading";
 import { about } from "../data/dummydata";
 
-import React from 'react'
-
 export const About = () => {
   return (
     <div>

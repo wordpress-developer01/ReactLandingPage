@@ -114,3 +114,50 @@ button {
     background-color: var(--headingColor);
   }
 }
+
+ section {
+   height: 90vh;
+   display: flex;
+   align-items: center;
+  }
+
+  .flex {
+    display: flex;
+  }
+
+  .hero {
+  position: relative;
+}
+
+.hero::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-image: url("../public/images/home-bg.png");
+  background-size: cover;
+  background-attachment: fixed;
+  z-index: -1;
+  width: 100%;
+  height: 90vh;
+}
+
+
+.blog .box {
+  background-color: var(--primaryBackground);
+  border-radius: 10px;
+}
+
+.blog img {
+  width: 100%;
+}
+
+.blog .text {
+  padding: 10px 30px;
+}
+
+.grid3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
