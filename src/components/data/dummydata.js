@@ -33,16 +33,16 @@ export const navlink = [
 export const home = [
   {
     text: "HELLO I'M",
-    name: "MURAT",
-    post: "WEB DEVELOPER",
-    design: "FULL STACK ENGINEER",
-    desc: "I work as a Full Stack Engineer on MERN/PERN stacks. I have 50 pet-projects on GitHub",
+    name: "ALAMIN MUSA",
+    post: "WEB DESIGNER",
+    design: "UI / UX DESIGNER",
+    desc: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
   },
 ]
 export const about = [
   {
-    desc: "I graduadet Universty of Turkey named Sabahattin Zaim (IZU), department: Software Engineer",
-    desc1: "I have experiences on Stack MERN/PERN, I also know C/C++, Python",
+    desc: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
+    desc1: "magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
     cover: "./images/man.png",
   },
 ]
@@ -50,7 +50,7 @@ export const services = [
   {
     id: 1,
     icon: <Settings />,
-    title: "Software Engineer",
+    title: "Creative Design",
     desc: "Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply",
   },
   {
