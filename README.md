@@ -1,7 +1,8 @@
 # WebSite:
-[WebSite deployed on AWS](https://main.d1yqw66bcocrlq.amplifyapp.com/)
-[WebSite deployed on Netlify](https://reacttestpage01.netlify.app/)
-[WebSite deployed on Vercel](https://react-landing-page-wine-five.vercel.app/)
+
+[WebSite deployed on AWS](https://main.d1yqw66bcocrlq.amplifyapp.com/)<br>
+[WebSite deployed on Netlify](https://reacttestpage01.netlify.app/)<br>
+[WebSite deployed on Vercel](https://react-landing-page-wine-five.vercel.app/)<br>
 [WebSite deployed on Render](https://react-landing-page-6oae.onrender.com/)
 
 
